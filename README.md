@@ -3,7 +3,7 @@
 </h3>
 <p align="center">
 I'm Godran, Front-end developer with a passion for web technologies. <br>
-:pushpin: I'm from Congo but acctually in Moscow, Russia <br>
+:pushpin: I'm from Congo but acctually in Saint Petersburg, Russia <br>
 :man_student: I did my Bachelor and Master in Computer Science, profile: Software System Development Technology. I have also published many scientific papers.
 
 Web development is a field that fascinates me and in which I continue to learn every day, especially Vue.Js ecosystem. I have +2 years of professional experience in web development and I participated in many real projects.

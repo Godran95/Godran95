@@ -2,11 +2,5 @@
   <b> Who I am :grey_question:</b>
 </h3>
 <p align="center">
-I'm Godran, Front-end developer with a passion for web technologies. <br>
-:pushpin: I'm from Congo but acctually in Saint Petersburg, Russia <br>
-:man_student: I did my Bachelor and Master in Computer Science, profile: Software System Development Technology. I have also published many scientific papers.
-
-Web development is a field that fascinates me and in which I continue to learn every day, especially Vue.Js ecosystem. I have +2 years of professional experience in web development and I participated in many real projects.
-
-I like to learn new things. I speak three languages: French, English and Russian. Currently, I am learning Spanish. My passion is not only to write good code but also to help people, that's why since January 2017 I started volunteering and I have a very active community life. I have held several positions of responsibility. Currently, I am vice-president of the Association of International Students of Russia for Novosibirsk region. I am also the winner of several awards..
+JavaScript developer with 3+ experience, specialized in the Vue.js framework. Proficient in creating responsive and engaging user interfaces through front-end development expertise. I have a particular interest in applying Vue.js best practices, including robust state management with Vuex or Pinia and transparent routing with Vue Router. Deep understanding of cutting-edge web technologies such as HTML5, CSS3 and JavaScript ES6+.I have worked with Agile methodologies and in collaborative environments to produce cutting-edge software solutions within diverse teams.My passion is not only to write good code but also to help people, that's why since January 2017 I started volunteering and I have a very active community life. I have held several positions of responsibility. Currently, I am vice-president of the Association of International Students of Russia in the Novosibirsk region. I am also the winner of several awards.
 <p>
